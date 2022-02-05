@@ -2,9 +2,9 @@
 
 > Cybersecurity Engineer. !!! Know me better at [https://siwanont.ml](https://siwanont.ml)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=va1kar1e&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=va1kar1e&count_private=true&show_icons=true&theme=radical)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va1kar1e&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va1kar1e&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va1kar1e&langs_count=10&theme=radical)
 
 
 <!--
