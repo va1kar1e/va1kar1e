@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> Cybersecurity Engineer. !!! Know me better at [https://siwanont.ml](https://siwanont.ml)
+> I am a Cybersecurity Engineer. !!! Know me better at [https://siwanont.ml](https://siwanont.ml)
 
 ![Valks's github stats](https://github-readme-stats.vercel.app/api?username=va1kar1e&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=va1kar1e&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
